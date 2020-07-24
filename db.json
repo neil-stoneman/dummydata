@@ -1,0 +1,64 @@
+{
+    "data":
+[
+    {
+        "$id": "3",
+        "$title": "Test Product 3",
+        "$link": "http://www.google.com/image",
+        "$description": "n/a",
+        "price": 0.0,
+        "$image_link": "http://www.google.com/image2",
+        "categories": [
+            "ALL"
+        ],
+        "$inventory_quantity": 3.0
+    },
+    {
+        "$id": "1",
+        "$title": "Test Product 1",
+        "$link": "http://www.google.com/image",
+        "$description": "n/a",
+        "price": 0.0,
+        "$image_link": "http://www.google.com/image2",
+        "categories": [
+            "ALL"
+        ],
+        "$inventory_quantity": 0.0
+    },
+    {
+        "$id": "2",
+        "$title": "Test Product 22",
+        "$link": "http://www.google.com/image",
+        "$description": "n/a",
+        "price": 0.0,
+        "$image_link": "http://www.google.com/image2",
+        "categories": [
+            "ALL"
+        ],
+        "$inventory_quantity": 2.0
+    },
+    {
+        "$id": "5",
+        "$title": "Test Product 5",
+        "$link": "http://www.google.com/image",
+        "$description": "n/a",
+        "price": 0.0,
+        "$image_link": "http://www.google.com/image5",
+        "categories": [
+            "ALL"
+        ],
+        "$inventory_quantity": 5.555
+    },
+    {
+        "$id": "4",
+        "$title": "Test Product 4",
+        "$link": "http://www.google.com/image",
+        "$description": "n/a",
+        "price": 0.0,
+        "$image_link": "http://www.google.com/image4",
+        "categories": [
+            "ALL"
+        ],
+        "$inventory_quantity": 4.4
+    }
+]}
